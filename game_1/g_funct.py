@@ -1,5 +1,8 @@
 __author__ = 'Chilufya'
+'''
+* This is the game function file. Contains all the major game functions. I like calling it the engine of Alien shuttleattack
 
+'''
 import pygame,sys
 from pygame.locals import *
 from bullet import Bullet
